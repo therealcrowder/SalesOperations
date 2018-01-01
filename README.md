@@ -83,16 +83,11 @@ Each of those deals on average gained us an additional 100K per year at 20% prof
 
 Notice we did not talk about one of the most important aspects of sales strategy and that is time. How long did it take for us to get from Marketing pouring leads into our funnel and getting to close. For simplicity it took 120 days, or an entire quarter. Now, depending on your product that can be good or it can be slow. Sales Ops always wants to make speed to revenue as short as possible for both customer satisfaction, but also for sales professional satisfaction. This brings us into another metric:
 
-$$
-FunnelTurnRev = \\frac{AmountInFunnelAtClose}{TimeQuotaint}
-$$
- ![](/Users/mcrowder/Documents/Resume/SalesOperations/FunnelTurnRev.gif)
+![](/Users/mcrowder/Documents/Resume/SalesOperations/FunnelTurnRev.gif)
 
 Where our TimeQuotaint is our quotiant of:
 
-$$
-TimeQuotient = \\frac{DaysToClose}{DaysInYear}
-$$
+![](/Users/mcrowder/Documents/Resume/SalesOperations/TimeQuotaint.gif)
 
 In this case we had 4 opportunities at a mean opportunity value of 100K this puts our Amount in the Funnel at 4 times 100K or 400K divided by our Time Quotient of .34 tell us that we can generate 1.18 Million per year at that 4% hit rate. This tells us that we turn this funnel 3 times in a year.
 
