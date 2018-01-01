@@ -71,11 +71,11 @@ Let’s say we get 100 leads from our partners in marketing. We then deploy thro
 
 In our pitches we find more information that disqualifies the deals for some reason (customer in contract with competitor until 2021, switching to platform we don't support, ect) we are down to 15. Out of the 15, 5 agree to enter into contract negotiations, putting us in a new stage of Consideration. This gets us 4, that’s right 4 of these 100 opportunities agree to go through an implementation and give us money for our product. Doing some quick napkin math that puts our hit rate on opportunities at 4%. That brings us to our first basic sales metric:
 
-![](/Users/mcrowder/Documents/Resume/SalesOperations/CodeCogsEqn.gif)
+![](README_files/CodeCogsEqn.gif)
 
 There is also what is called a Close Rate and that looks dollars signed and can deviate from the hit rate.
 
-![](/Users/mcrowder/Documents/Resume/SalesOperations/CloseRate.gif)
+![](README_files/CloseRate.gif)
 
 Now, you are saying well that was easy. Yes, it was, but if you have any sense of problem solving or process improvement you want to rip into what happened in those 100 leads and what that can teach us. How do we improve that 4% hit rate to a 10% or even 50% hit rate. Why would we want to do this?
 
@@ -83,11 +83,11 @@ Each of those deals on average gained us an additional 100K per year at 20% prof
 
 Notice we did not talk about one of the most important aspects of sales strategy and that is time. How long did it take for us to get from Marketing pouring leads into our funnel and getting to close. For simplicity it took 120 days, or an entire quarter. Now, depending on your product that can be good or it can be slow. Sales Ops always wants to make speed to revenue as short as possible for both customer satisfaction, but also for sales professional satisfaction. This brings us into another metric:
 
-![](/Users/mcrowder/Documents/Resume/SalesOperations/FunnelTurnRev.gif)
+![](README_files/FunnelTurnRev.gif)
 
 Where our TimeQuotaint is our quotiant of:
 
-![](/Users/mcrowder/Documents/Resume/SalesOperations/TimeQuotaint.gif)
+![](README_files//TimeQuotaint.gif)
 
 In this case we had 4 opportunities at a mean opportunity value of 100K this puts our Amount in the Funnel at 4 times 100K or 400K divided by our Time Quotient of .34 tell us that we can generate 1.18 Million per year at that 4% hit rate. This tells us that we turn this funnel 3 times in a year.
 
@@ -111,6 +111,6 @@ At the end of the day our ultimate goal as professionals in Sales Operations is 
 
 We have a goal, now what we do measure? One way to find out is to look at our past data on resources that have exceeded sales goals in the past and see what metrics set them apart from the rest of the population. This also enables us to see if we have any distinct groups sales professionals may fall into to. We could also use clustering methods here. To get a general look at a hypothetical sales team with the below scatter plot:
 
-image: ![](/Users/mcrowder/Documents/Resume/SalesOperations/Rplot.png)
+![](README_files/Rplot.png)
 
 What this scatter looks to be telling us from a high level is that if we get 10 or more wins in a year our sales professionals are more likely to be at that 95% effective to plan level we want them out. What this also tells us is that we have grouping of sales resources in that 85% to 94% we can get to that 95% and greater mark.
