@@ -5,18 +5,13 @@ date: "12/20/2017"
 output: github_document
 ---
 
-<style>
-body {
-text-align: justify}
-</style>
-
 ## Data Science in the B2B Sales Operations Domain
 
 This document seeks to describe how methods in statistics, machine learning and the overall broad definition of Data Science can help companies get the most out of one of the most underrated levers that a company has in their tool belt.
 
 We do this by taking a look at a broad definition of what Sales Operations is. We also look at a couple of basic metrics. Finally, we start to explore methods in which we can deploy Data Science to Sales Operations. This document is not an entire Sales Operations Charter, I bet we could write one well over 100 pages for a large company. I'll update this document as I have time to do so with additional modeling techniques that can be used.
 
-So, what makes me qualified to write about this subject? Most of my career now has been spent in an outside sales role and as a Sales Operations professional. In 2017, I started a Data Science graduate program for my Master’s. I’ll be finished up August of 2018. I started to apply time series to forecasting (thanks OU Econ department for offering an undergrad course in Forecasting) sales results in one of my positions and that led me to exploring what advanced analytics could do for large business to business sales teams. These analysis have helped move sales forces millions of dollars in the right direction. Now into my graduate program, I have seen that basic modeling can do a lot to not only find out what is happening, what can happen, but can also improve the effectiveness of a large B2B sales team.
+So, what makes me qualified to write about this subject? Most of my career now has been spent in an outside sales role and as a Sales Operations professional. In 2017, I started a Data Science graduate program for my Master’s. I’ll be finished up August of 2018. I started to apply time series to forecasting (thanks OU Econ department for offering an undergrad course in Forecasting) sales results in one of my positions and that led me to exploring what advanced analytics could do for large business to business sales teams. These analysis and others have helped move sales forces millions of dollars in the right direction. Now into my graduate program, I have seen that basic modeling can do a lot to not only find out what is happening, what can happen, but can also improve the effectiveness of a large B2B sales team.
 
 ### What is Sales Operations
 
@@ -126,6 +121,8 @@ We have a goal, now what we do measure? One way to find out is to look at our pa
 ![](README_files/Rplot.png) 
 
 What this scatter looks to be telling us from a high level is that if we get 10 or more wins in a year our sales professionals are more likely to be at that 95% effective to plan level we want them out. What this also tells us is that we have grouping of sales resources in that 85% to 94% we can get to that 95% and greater mark.
+
+To get a great analysis that leads to a solid model we are going to need to work with several internal departments to put the all of the features needed.
 
 
 
